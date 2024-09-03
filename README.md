@@ -1,1 +1,1 @@
-"Fecha: $(date +'%d de %B de %Y')" 
+"Fecha: 2 de septiembre de 2024" 
