@@ -1,1 +1,1 @@
-# diagnosticoPractica1
+"Fecha: $(date +'%d de %B de %Y')" 
